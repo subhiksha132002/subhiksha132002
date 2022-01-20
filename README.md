@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subhiksha B</h1>
-<!--<h3 align="center">I'm a passionate Learner</h3>-->
+<h3 align="center">I'm an M.Sc(Information Technology) Student at College Of Enginnering(CEG), Anna University.</h3>
 
 ## 🙋‍♂️ About Me
 - 📫 How to reach me **subhiksha132002@gmail.com**
