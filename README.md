@@ -1,22 +1,53 @@
-<h1 align="center">Hi 👋, I'm Subhiksha B</h1>
-<h3 align="center">I'm an M.Sc(Information Technology) Student at College Of Engineering(CEG), Anna University.</h3>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhiksha491&label=Profile%20views&color=0e75b6&style=flat" alt="subhiksha491" /> </p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subhiksha B</h1>
+<!--<h3 align="center">I'm a passionate Learner</h3>-->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhiksha491" alt="subhiksha491" /></a> </p>
-
+## 🙋‍♂️ About Me
 - 📫 How to reach me **subhiksha132002@gmail.com**
+- ## 🚀 Languages and Tools:
 
-<h3 align="left">Connect with me:</h3>
+<p align="left"> 
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> </a>
+  <a style="padding-right:8px;" href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> </a>
+</p>
+<p align="center">
+    <a href="https://github.com/subhiksha132002/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subhiksha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=subhiksha132002&theme=merko&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+  </p>
+
+## 📊 My Github Stats
+
+  <br/>
+    <p align="center">
+  <a href="https://github.com/subhiksha132002/github-readme-stats"><img alt="Subhiksha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=subhiksha132002&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=0D1117" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/subhiksha132002/github-readme-stats"><img alt="Subhiksha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhiksha132002&count_private=true&layout=compact&theme=merko&hide_border=true&bg_color=0D1117" /></a>
+  </p>
+  <br/>
+<br/>
+
+<a href="https://github.com/subhiksha132002/github-readme-activity-graph"><img alt="Subhiksha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=subhiksha132002&bg_color=0D1117&color=abd200&line=68b587&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+## Connect with me:
+
 <p align="left">
-<a href="https://linkedin.com/in/subhiksha132002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhiksha132002" height="30" width="40" /></a>
+
+<a href = "https://www.linkedin.com/in/subhiksha132002/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+## ❤ Views and Followers
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhiksha491&show_icons=true&locale=en&layout=compact" alt="subhiksha491" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhiksha491&show_icons=true&locale=en" alt="subhiksha491" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhiksha491&" alt="subhiksha491" /></p>
+<p align="left">
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=subhiksha132002">
+</a>
+<a href="https://github.com/subhiksha132002?tab=followers"><img src="https://img.shields.io/github/followers/subhiksha132002?label=Followers&style=social" alt="GitHub Badge"></a>
+ </p> 
